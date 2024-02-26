@@ -64,6 +64,6 @@ node <your-main-js-file>.js
 
 
 
-https://github.com/NoamHack/Drawing-Board/assets/144808954/1ed76666-62ba-46b8-9bd3-864063b4013d
+https://github.com/NoamHack/Drawing-Board/assets/144808954/c2421135-4576-4812-8d7c-529b3be64624
 
 
