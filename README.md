@@ -63,5 +63,7 @@ node <your-main-js-file>.js
 ## נראות האתר והשימוש בו:
 
 
-https://github.com/NoamHack/Drawing-Board/assets/144808954/bc83d7df-922f-4155-9507-d28b8f6e13bc
+
+https://github.com/NoamHack/Drawing-Board/assets/144808954/1ed76666-62ba-46b8-9bd3-864063b4013d
+
 
